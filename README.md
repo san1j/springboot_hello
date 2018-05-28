@@ -19,7 +19,7 @@ A simple SpringBoot project with Thymeleaf
   ```
     Application.java
   ```
- 
+ After running the app, point your browser to [ http://localhost:8080]( http://localhost:8080)
 
 
 
